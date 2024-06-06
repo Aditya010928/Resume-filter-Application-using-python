@@ -38,3 +38,10 @@ Pillow: For image processing.
 PyInstaller: For creating executables.
 Contact
 For any queries or issues, please open an issue in the repository or contact the maintainer at adityaishuanand@gmail.com .
+
+
+[Link exe file of application](https://drive.google.com/file/d/1TT07U5O8STM7BwrWUzgvLvJC62e7vqxw/view?usp=sharing)
+
+
+
+
